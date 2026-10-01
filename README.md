@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Nova — SaaS Landing Page
 
 A responsive SaaS landing-page portfolio project built with Next.js, TypeScript and Tailwind CSS.
@@ -44,3 +45,6 @@ Before deployment, replace the placeholder domain in:
 - `app/page.tsx`
 
 with the actual deployed domain.
+=======
+# BussinessGrowthwebsite
+>>>>>>> a432e007b2644cefc37989bb3507601f72233f78
