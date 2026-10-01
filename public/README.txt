@@ -1,0 +1,1 @@
+Put public assets here. The project includes a generated nova-dashboard.png placeholder for the About section.
